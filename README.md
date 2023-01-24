@@ -6,17 +6,29 @@ This project aims to predict the approval status of loan applications based on a
 The data for this project is a sample of past loan applications and their outcomes. The data is in a CSV file called "loan_data.csv" and includes the following columns:
 
 Loan_ID: unique ID for each loan application
+
 Gender: gender of the applicant
+
 Married: marital status of the applicant
+
 Dependents: number of dependents of the applicant
+
 Education: education level of the applicant
+
 Self_Employed: whether the applicant is self-employed or not
+
 ApplicantIncome: annual income of the applicant
+
 CoapplicantIncome: annual income of the co-applicant
+
 LoanAmount: requested loan amount
+
 Loan_Amount_Term: term of the loan
+
 Credit_History: credit history of the applicant
+
 Property_Area: area of the property for which the loan is requested
+
 Loan_Status: outcome of the loan application (approved/rejected)
 
 
