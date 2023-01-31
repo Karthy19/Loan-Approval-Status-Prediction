@@ -45,9 +45,13 @@ The data for this project is a sample of past loan applications and their outcom
 ## Model Building :
 - Model building is the process of using various machine learning algorithms to create a model that can accurately predict the outcome of new data.
 - The three algorithms used in this project are 
+- 
 &#9658; Logistic Regression,
+
 &#9658;  Random Forest, 
+
 &#9658;  Support Vector Machine. 
+
 Pipeline and RandomizedSearchCV are two functions that were used to parallelize the hyperparameter tuning process. These functions help to find the best set of hyperparameters for a given model by automating the process of hyperparameter tuning and allow to test different combination of hyperparameters in parallel to find the best set of hyperparameters.
 
 ## Model Evaluation :
