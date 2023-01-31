@@ -58,7 +58,8 @@ Pipeline and RandomizedSearchCV are two functions that were used to parallelize 
 -  A GUI is built using tkinter library in Python in this project, which allows users to input attribute values and predict the status of loan approval. 
 
 ## Project Outcome:
-&39733; The outcome of this project is the ability to predict the approval status of loan applications based on applicant details such as income, credit history, and employment status. 
+&#9733; The outcome of this project is the ability to predict the approval status of loan applications based on applicant details such as income, credit history, and employment status. 
+
 &#9733; Through the process of feature engineering, it was found that the 'Credit_History','Applicant Income','LoanAmount' features are the most important in determining the approval status of a loan application.
 
 &#9733; A GUI (Graphical User Interface) was also built using the tkinter library in Python, which allows users to input attribute values and predict the status of loan approval.
